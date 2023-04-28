@@ -22,6 +22,13 @@
       text-shadow: 2px 2px #282828;
       font-family:"Times New Roman", Times, serif;
     }
+    h2{
+      font-size: 100px;
+      text-align: center;
+      color: black;
+      text-shadow: 2px 2px #282828;
+      font-family:"Times New Roman", Times, serif;
+    }
     	button{
       font-size: 30px;
       padding: 10px 30px;
